@@ -1,0 +1,2 @@
+Database and Contents Copyright (c) 2017 MaxMind, Inc.
+Python Code (cn_csv2dat.py & pick_ip.py) Copyright (c) 2017 Jixun<https://Jixun.Moe/>
